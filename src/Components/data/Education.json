@@ -1,0 +1,39 @@
+[
+    {
+       "id": 1,
+    "Class": " Secondary School 10th Board",
+    "School": "SPS International School",
+    "startdate":"July,2016",
+    "EndDate": "July,2017",
+    "location": "Palwal, Haryana"
+
+    },
+    {
+       "id": 2,
+    "Class": " Senior Secondary School 12th Board",
+    "School": "Gayatry Vidya Mandir Sr Sec School",
+    "startdate":"July,2018",
+    "EndDate": "July,2019",
+    "location": "Palwal, Haryana"
+    
+
+    },
+    {
+       "id": 3,
+    "Class": " Bachelor of Commerce",
+    "School": "Pandit Deendayal Upadhyaya Shekhawati University",
+    "startdate":"July,2019",
+    "EndDate": "July,2022",
+    "location": "Sikar , Rajasthan"
+
+    },
+    {
+       "id": 4,
+    "Class": " Master of Computer Application",
+    "School": "Shri Jagdishprashad Jhabarmal Tibewala University",
+    "startdate":"July,2023",
+    "EndDate": "July,2025",
+    "location": "Chudela, Jhunjhunu ,Rajasthan"
+
+    }
+]
