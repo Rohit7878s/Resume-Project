@@ -1,10 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 :root {
   --box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);
   --bg-color: rgb(40, 47, 97);
 }
 
 body {
-  background-color: rgb(11, 26, 51);
+  background-color: rgb(17 24 39);
   color: white;
 }
 a {
@@ -139,10 +144,12 @@ a {
 }
 /* Contact */
 .contact-icon{
+  margin-top: 5em;
   height: 30vh;
   display: flex;
   justify-content: center;
   align-items: center;
+ 
 }
 .contact-icon .items{
   background-color: black;
